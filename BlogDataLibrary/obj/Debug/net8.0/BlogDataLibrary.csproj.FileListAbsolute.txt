@@ -1,0 +1,13 @@
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.sourcelink.json
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\bin\Debug\net8.0\BlogDataLibrary.deps.json
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\bin\Debug\net8.0\BlogDataLibrary.dll
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\bin\Debug\net8.0\BlogDataLibrary.pdb
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.dll
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\refint\BlogDataLibrary.dll
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.pdb
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogDataLibrary\obj\Debug\net8.0\ref\BlogDataLibrary.dll
