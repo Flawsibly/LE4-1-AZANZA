@@ -1,0 +1,16 @@
+C:\Users\Windows10\source\repos\AzanzaLE2\AzanzaBlodDB\bin\Debug\AzanzaBlodDB.dacpac
+C:\Users\Windows10\source\repos\AzanzaLE2\AzanzaBlodDB\bin\Debug\AzanzaBlodDB.dll
+C:\Users\Windows10\source\repos\AzanzaLE2\AzanzaBlodDB\bin\Debug\AzanzaBlodDB.pdb
+C:\Users\Windows10\source\repos\AzanzaLE2\AzanzaBlodDB\obj\Debug\AzanzaBlodDB.sqlproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\AzanzaLE2\AzanzaBlodDB\obj\Debug\AzanzaBlodDB.dll
+C:\Users\Windows10\source\repos\AzanzaLE2\AzanzaBlodDB\obj\Debug\AzanzaBlodDB.pdb
+C:\Users\Windows10\Source\Repos\AzanzaLE2\AzanzaBlodDB\obj\Debug\Model.xml
+C:\Users\Windows10\Source\Repos\AzanzaLE2\AzanzaBlodDB\obj\Debug\refactor.xml
+C:\Users\Windows10\Source\Repos\AzanzaLE2\AzanzaBlodDB\obj\Debug\postdeploy.sql
+C:\Users\Windows10\Source\Repos\AzanzaLE2\AzanzaBlodDB\obj\Debug\predeploy.sql
+C:\Users\Windows10\source\repos\AzanzaLE4\AzanzaBlodDB\bin\Debug\AzanzaBlodDB.dacpac
+C:\Users\Windows10\source\repos\AzanzaLE4\AzanzaBlodDB\bin\Debug\AzanzaBlodDB.dll
+C:\Users\Windows10\source\repos\AzanzaLE4\AzanzaBlodDB\bin\Debug\AzanzaBlodDB.pdb
+C:\Users\Windows10\source\repos\AzanzaLE4\AzanzaBlodDB\obj\Debug\AzanzaBlodDB.sqlproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\AzanzaLE4\AzanzaBlodDB\obj\Debug\AzanzaBlodDB.dll
+C:\Users\Windows10\source\repos\AzanzaLE4\AzanzaBlodDB\obj\Debug\AzanzaBlodDB.pdb
