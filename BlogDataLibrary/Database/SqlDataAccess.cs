@@ -3,30 +3,33 @@ using Microsoft.Extensions.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
-public class SqlDataAccess : ISqlDataAccess, ISqlDataAccess
+namespace BlogDataLibrary.Database
 {
-    private readonly IConfiguration _config;
-    private readonly string connectionStringName = "Default";
-
-    public SqlDataAccess(IConfiguration config)
+    public class SqlDataAccess : ISqlDataAccess
     {
-        _config = config;
-    }
+        private readonly IConfiguration _config;
+        private const string connectionStringName = "SqlDb";
 
-    public async Task<List<T>> LoadData<T, U>(string sql, U parameters)
-    {
-        using (IDbConnection connection = new SqlConnection(_config.GetConnectionString(connectionStringName)))
+        public SqlDataAccess(IConfiguration config)
         {
-            var data = await connection.QueryAsync<T>(sql, parameters);
-            return data.ToList();
+            _config = config;
         }
-    }
 
-    public async Task SaveData<T>(string sql, T parameters)
-    {
-        using (IDbConnection connection = new SqlConnection(_config.GetConnectionString(connectionStringName)))
+        public async Task<List<T>> LoadData<T, U>(string sql, U parameters)
         {
-            await connection.ExecuteAsync(sql, parameters);
+            using (IDbConnection connection = new SqlConnection(_config.GetConnectionString(connectionStringName)))
+            {
+                var data = await connection.QueryAsync<T>(sql, parameters);
+                return data.ToList();
+            }
+        }
+
+        public async Task SaveData<T>(string sql, T parameters)
+        {
+            using (IDbConnection connection = new SqlConnection(_config.GetConnectionString(connectionStringName)))
+            {
+                await connection.ExecuteAsync(sql, parameters);
+            }
         }
     }
 }

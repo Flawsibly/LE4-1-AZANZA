@@ -1,13 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDataLibrary", "BlogDataLibrary\BlogDataLibrary.csproj", "{3BA96836-E832-46BC-AC0C-C53398E87771}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AzanzaBlodDB", "AzanzaBlodDB\AzanzaBlodDB.sqlproj", "{FA87F37F-3227-427C-A8FA-44E73AAA96D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogTestUI", "BlogTestUI\BlogTestUI.csproj", "{3100CD1D-1D5B-44C1-8FDE-55490F9A5892}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3BA96836-E832-46BC-AC0C-C53398E87771} = {3BA96836-E832-46BC-AC0C-C53398E87771}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

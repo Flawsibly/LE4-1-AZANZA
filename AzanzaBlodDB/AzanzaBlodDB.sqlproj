@@ -57,10 +57,16 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="dbo" />
+    <Folder Include="Stored Procedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Users.sql" />
     <Build Include="dbo\Posts.sql" />
+    <Build Include="Stored Procedures\spUsers_Authenticate.sql" />
+    <Build Include="Stored Procedures\spPosts_Insert.sql" />
+    <Build Include="Stored Procedures\spPosts_List.sql" />
+    <None Include="Stored Procedures\spPosts_Detail.sql" />
+    <Build Include="Stored Procedures\spUsers_Register.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="AzanzaBlodDB.refactorlog" />
