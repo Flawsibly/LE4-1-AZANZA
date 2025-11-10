@@ -1,0 +1,6 @@
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\AzanzaLE2\BlogTestUI\obj\Debug\net8.0\BlogTestUI.sourcelink.json
